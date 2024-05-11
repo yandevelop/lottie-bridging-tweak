@@ -1,0 +1,9 @@
+Package: com.yan.lottieexample
+Name: Lottie Bridging Example
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An example tweak on how to use Lottie from Objective-C
+Maintainer: yan
+Author: yan
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
